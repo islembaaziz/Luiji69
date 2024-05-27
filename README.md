@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, Je suis Islem Baaziz</h1>
-<h3 align="center">Développeur frontend React</h3>
+<h3 align="center">Développeur MERN stack</h3>
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://islembaaziz.netlify.app/](https://islembaaziz.netlify.app/)
 
